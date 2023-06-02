@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="benvenuti_al_season">Benvenuti al Season</string>
+    <string name="sfoglia_la_gallery">SFOGLIA LA GALLERY</string>
+    <string name="descrizione_season">Riscopri il lusso piu\' esclusivo al Season Resort di Sharm El Sheikh, in Egitto. Situato su un tratto di spiaggia privata di 1 km, il Season Resort di Sharm El Sheikh è un\'oasi di lusso tra il deserto e la barriera corallina, con sole tutto l\'anno, sistemazioni moderne ed eleganti e viste panoramiche sul Mar Rosso. Dotato di 5 piscine scoperte, offre 10 esperienze culinarie all\'aperto, un centro benessere acclamato, un divertente miniclub Kids For All Seasons e un centro immersioni PADI gestito con esperienza, oltre ad una delle migliori barriere coralline della regione e ad una funicolare che vi trasporta dalla cima alla spiaggia.</string>
+    <string name="title_activity_drawer">drawer</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="numeroTelefono">3277141242</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+
+    <string name="drawer_open">Apri</string>
+    <string name="drawer_close">Chiudi</string>
+<!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>

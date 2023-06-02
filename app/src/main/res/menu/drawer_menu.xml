@@ -1,0 +1,17 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/camere_item"
+        android:title="CAMERE" />
+    <item
+        android:id="@+id/servizi_item"
+        android:title="SERVIZI" />
+    <item
+        android:id="@+id/contattaci_item"
+        android:title="CONTATTACI" />
+    <item
+        android:id="@+id/ristorante_item"
+        android:title="RISTORANTE" />
+
+
+</menu>
